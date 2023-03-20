@@ -2,7 +2,7 @@
   "name": "react-test-deployment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://john-abou/github.io/react-test-deployment",
+  "homepage": "https://john-abou.github.io/react-test-deployment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
