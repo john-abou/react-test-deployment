@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/github.io/react-test-deployment/static/js/main.79397479.js",
+    "index.html": "/github.io/react-test-deployment/index.html",
+    "main.79397479.js.map": "/github.io/react-test-deployment/static/js/main.79397479.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.79397479.js"
+  ]
+}
